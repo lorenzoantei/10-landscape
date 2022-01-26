@@ -87,7 +87,12 @@ const IndexPage = () => (
 
             <div>Ennio Morlotti, Paesaggio (1955) https://www.artribune.com/attualita/2014/09/inpratica-francesco-arcangeli-un-omaggio/attachment/ennio-morlotti-paesaggio-1955_maga-gallarate//div>
             
-            
+            <StaticImage
+              src="hhttps://lorenzoantei.gatsbyjs.io/static/47ae5fe0f931de04adaf8b1c48d2b955/2de93/sb_omen_v20034.webp"
+              aspectRatio="constrained"
+              alt=""
+            />
+            <div className="pb-12"iv>Lorenzo Antei, <em>(il terzo luogo (ricerca)</em>, 2020, Immagine digitale, 3000x3000 px, </div>
             
           </div>
         </div>
