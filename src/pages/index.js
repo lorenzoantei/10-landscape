@@ -27,10 +27,12 @@ const IndexPage = () => (
             <div> alternativa turner tempesta di neve 1942</div>
             
 
-
-            <div> Hokusai - La grande onda di Kanagawa - 1830</div>
+            <StaticImage
+              src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Great_Wave_off_Kanagawa2.jpg"
+              alt="Caspar David Friedrich - The Sea of Ice"
+            />
+            <div className="pb-12">Hokusai, <em>La grande onda di Kanagawa</em>, 1830, color woodcut print,  25.7 x 37.9 cm,  Library of Congress, Washington, D.C., Foto di pubblico dominio</div>
            
-
 
 
             <StaticImage
@@ -59,12 +61,24 @@ const IndexPage = () => (
 
 
 
-            <div>The Persistence of Memory 1931</div>
-            <div>Sheeler Charles    - American Landscape - 1930 (Fabbriche Ford di Detroit)</div>
+            <StaticImage
+              src="https://i.redd.it/wpu90vybsl471.jpg"
+              aspectRatio="constrained"
+              alt=""
+            />
+            <div className="pb-12"iv>Charles Sheeler, <em>American Landscape</em>, 1930, olio su tela, 61 × 78.8 cm , MoMA (New York), Foto diritti riservati</div>
+
+
+
+            <StaticImage
+              src="https://www.moma.org/media/W1siZiIsIjM4NjQ3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=fdc1ab6baa7f5400"
+              aspectRatio="constrained"
+              alt=""
+            />
+            <div className="pb-12"iv>Salvador Dalì, <em>La persistenza della memoria</em>, 1931, olio su tela, 24.1 x 33 cm, MoMA (New York), Foto diritti riservati</div>
             
-
-
-
+            
+            
             <StaticImage
               src="https://upload.wikimedia.org/wikipedia/commons/3/30/Piet_Mondrian%2C_1942_-_Broadway_Boogie_Woogie.jpg"
               aspectRatio="constrained"
@@ -81,25 +95,41 @@ const IndexPage = () => (
             />
             <div className="pb-12"iv>Marcel Duchamp, <em>Étant donnés: 1° la chute d'eau / 2° le gaz d'éclairage (vista interna dell'installazione')</em>, 1946-1966, Installazione, ??x?? cm, Philadelphia Museum of Art, Philadelphia, Fair use tout-fait.com</div>
 
-
-            
-            <div>Mark Rothko - Blue Cher Road - 1953</div>
-
-            <div>Ennio Morlotti, Paesaggio (1955) https://www.artribune.com/attualita/2014/09/inpratica-francesco-arcangeli-un-omaggio/attachment/ennio-morlotti-paesaggio-1955_maga-gallarate//div>
+            <StaticImage
+              src="https://www.mark-rothko.org/images/paintings/blue-green-and-brown.jpg"
+              aspectRatio="constrained"
+              alt=""
+            />
+            <div className="pb-12"iv>Mark Rothko, <em>Blue Cher Road</em>, 1953, Olio su tela, 292.74 × 233.68 cm, MOCA ,Los Angeles, Foto diritti riservati</div>
             
             <StaticImage
-              src="hhttps://lorenzoantei.gatsbyjs.io/static/47ae5fe0f931de04adaf8b1c48d2b955/2de93/sb_omen_v20034.webp"
+              src="https://www.travelglobe.it/wp-content/uploads/2019/06/Morlotti-Paesaggio-a-Imbersago-1957.-Ph.-Studio-Da-Re-Bergamo.jpg"
+              aspectRatio="constrained"
+              alt=""
+            />
+            <div className="pb-12"iv>Ennio Morlotti, <em>Paesaggio</em>, 1953, dipinto, 77.5 x 71 cm, GAMeC, Bergamo, Foto diritti riservati</div>
+            
+            
+
+            <div className="pb-12"iv>(...)</div>
+            
+            <StaticImage
+              src="https://lorenzoantei.gatsbyjs.io/static/47ae5fe0f931de04adaf8b1c48d2b955/2de93/sb_omen_v20034.webp"
               aspectRatio="constrained"
               alt=""
             />
             <div className="pb-12"iv>Lorenzo Antei, <em>(il terzo luogo (ricerca)</em>, 2020, Immagine digitale, 3000x3000 px, </div>
+
+
+
+            <div className="pb-12"iv>Bibliografia</div>
+            <div className="pb-12"iv>Gli ultimi naturalisti, Francesco Arcangeli</div>
+            <div className="pb-12"iv>Naturans, Angelo Capasso</div>
             
           </div>
         </div>
     </div>
-    </div>
 
-    <div><a href="https://lorenzoantei.gatsbyjs.io/">Lorenzo Antei</a></div>
   </Layout>
 )
 
