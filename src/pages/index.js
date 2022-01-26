@@ -98,6 +98,8 @@ const IndexPage = () => (
         </div>
     </div>
     </div>
+
+    <div><a href="https://lorenzoantei.gatsbyjs.io/">Lorenzo Antei</a></div>
   </Layout>
 )
 
