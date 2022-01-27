@@ -6,3 +6,153 @@ https://artslife.com/2012/10/13/mark-rothko-no-1-royal-red-and-blue/
 
 Morlotti paesaggio
 https://www.artsy.net/artwork/ennio-morlotti-paesaggio-in-brianza-imbersago
+
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________
+
+SCARTATI
+
+<StaticImage
+              src="https://files.spazioweb.it/e6/02/e602fdea-5c01-44e4-a308-ce38bc09208e.jpg"
+              alt="Leonardo da Vinci - Paesaggio sull'Arno"
+            />
+            <div className="pb-12">Leonardo da Vinci, <em>Paesaggio sull'Arno</em>, 1473, disegno su carta, 19x28,5 cm, Galleria degli Uffizi, Foto di pubblico dominio</div>
+
+
+
+            <StaticImage
+              src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Caspar_David_Friedrich_-_Das_Eismeer_-_Hamburger_Kunsthalle_-_02.jpg"
+              alt="Caspar David Friedrich - The Sea of Ice"
+            />
+            <div className="pb-12">Caspar David Friedrich, <em>The Sea of Ice </em>, 1823-1824, pittura, 96,7x126,9 cm, Hamburger Kunsthalle, Foto di pubblico dominio</div>
+            <div> alternativa turner tempesta di neve </div>
+            
+
+            <StaticImage
+              src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Great_Wave_off_Kanagawa2.jpg"
+              alt="Caspar David Friedrich - The Sea of Ice"
+            />
+            <div className="pb-12">Hokusai, <em>La grande onda di Kanagawa</em>, 1830, color woodcut print,  25.7 x 37.9 cm,  Library of Congress, Washington, D.C., Foto di pubblico dominio</div>
+           
+
+
+            <StaticImage
+              src="https://upload.wikimedia.org/wikipedia/commons/5/59/Monet_-_Impression%2C_Sunrise.jpg"
+              alt=""
+            />
+            <div className="pb-12"iv>Claude Monet, <em>Impression soleil levant</em>, 1872, pittura ad olio, 48×63 cm , Musée Marmottan Monet, Parigi, Foto di pubblico dominio</div>
+
+
+
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+Prof. Gilberto Pellizzola
+Accademia di Belle Arti di Carrara
+
+SCHEDA OPERE – CATALOGO - DIDASCALIA
+
+Il fondamento convenzionale è la sequenza: autore, titolo (in
+corsivo o sottolineato nella scrittura a mano), data, tecnica,
+dimensioni (altezza x base x ingombro), luogo di conservazione o
+di esposizione (e autore della foto)
+
+Pittura
+R. Guttuso, I funerali di Togliatti, 1972, acrilici su carta
+intelaiata e applicata su tamburato di legno, quattro pannelli,
+cm. 340x440, MAMbo, Museo d’Arte Moderna, Bologna (deposito
+Direzione Nazionale Democratici di Sinistra)
+
+Disegno
+S. Xhafa, See no Evil, Hear no Evil, Speak no Evil, tre fogli,
+penna e pennarelli su carta, mm. 297x210 ciascuno, Collezione
+Privata, Peja (Kosovo)
+
+Incisione e grafica
+G. B. Piranesi, Carceri d’invenzione. Frontespizio, 1745 ca.,
+acquaforte a maniera nera, foglio mm. 500x400, lastra mm. 420x300,
+Ashmolean Museum, Oxford (lascito Lord Clark Bondwell R.A.)
+M. Pistoletto, Gabbia, 1962-1974, serigrafia su acciaio lucidato a
+specchio, due elementi, cm. 230x250, Fondazione Pistoletto,
+Biella, foto Pellion
+
+Scultura e rilievo
+S. Xhafa, East Circle, 2002, sapone su base e tralicci in legno,
+cm. 600x400x300, allestimento al Casino Lussemburgo, Lussemburgo
+2005, foto…
+A. Boetti, Millenovecentosettanta, 1970, bassorilievo, ghisa e
+vernice a spruzzo, cm. 35x35x3, Collezione Privata
+V. Pisani, Venere di cioccolato, 1970, cioccolato, carta stagnola,
+basamento in legno bianco, dimensioni variabili, Fondazione Morra,
+Napoli
+
+Installazione
+F. Vaccari, Lascia su questi pareti una traccia del tuo passaggio,
+1972, installazione sito-specifica, cabina per fototessere,
+fototessere a parete ottenute e applicate dal pubblico,
+
+allestimento alla Biennale di Venezia 1972, foto…, proprietà
+dell’artista
+(video-installazione)
+(installazione multimediale)
+(dimensione ambiente)
+(dimensioni variabili)
+
+Fotografia
+L. Ontani, III Grazia del Dado d’après Tintoretto, 1975,
+fotografia a colori acquerellata in cornice dorata, cm. 220x135,
+courtesy Galleria Lorcan O’Neill, Roma
+U. La Pietra, Videocomunicatore, 1971, fotomontaggio in bianco e
+nero, cm. 100x100, proprietà dell’autore
+(stampa ai sali d’argento etc.)
+(applicata su alluminio etc.)
+
+Cinema
+D. Croneneberg, eXistenZ, 1999, Canada
+U. Nespolo, Buongiorno Michelangelo, 1968-1969, film in 16 mm.
+riversato in VHS video, bianco e nero e colori, 20’, proprietà
+dell’autore
+
+Video
+G. Schum, Land Art, 1969, antologia video, 47’, MOMA, New York,
+opere di Dibbets, Flanagan, Long, Smithson…
+F. Vaccari, Cani lenti, 1971, video, 25’, proprietà dell’artista
+V. Agnetti, Documentario, 1977, videoperformance, 8’, courtesy V.
+Fagone
+
+Performance
+F. Mauri, Che cos’è il fascismo, performance, attori:…, scene di…,
+musica di…, prima esecuzione 1971, The Performing Garage, New York
+1979, foto E. Catalano
+
+SCHEDA BIBLIOGRAFICA
+(per i Curricula e per cataloghi, tesi e tesine, biografie, ricerche, progetti...)
+
+Il fondamento convenzionale è la sequenza: autore (stampatello maiuscolo), titolo(in corsivo o sottolineato nella scrittura a mano), editore, luogo di edizione, anno di edizione (prima data di pubblicazione e in quale lingua se straniera)(per i volumi i dati si desumono dal frontespizio – non dalla copertina – e dalla terza o ultima pagina - di solito)
+
+LIBRO
+J.-A. KEIM, Breve storia della fotografia. Con un’appendice sulla fotografia in Italia di W. Settimelli, 1970, Einaudi, Torino 2001 (prima edizione 1976, prima edizione francese 1970), p.10, pp. 32-47, pp. 80 e sgg.
+G. MARANIELLO (a cura), Arte in Europa 1990-2000, Skira, Ginevra-Milano 2003 (con testi di…)
+A.HAUSER, Storia sociale dell&#39;arte, 1955, Einaudi, Torino 2001,4 voll., vol. IV, p. 10 etc.
+
+PERIODICO
+“Flash Art”, n.3, 2008(XXX)
+“La Repubblica”, 7 giugno 2008
+
+CATALOGO
+(mostra personale) L. FICACCI (a cura), Sisley Xhafa. See no , Hear no Evil, Speak no Evil, catalogo della mostra, ciclo Vetrine della Calcografia, Istituto Nazionale per la Grafica, Roma 2003-2004, Mazzotta, Milano 2004 (con testi di…)
+(mostra collettiva) M. FOCHESSATI, M. PIAZZA, S. SOLIMANO (a cura), In pubblico. Azioni e idee degli settanta in Italia, catalogo della mostra, Museo d’Arte Contemporanea di Villa Croce, Genova 2007, Skira, Ginevra-Milano 2007 (opere di…)
+
+TESTO IN LIBRO O CATALOGO CONTENENTE SCRITTI DI AUTORI VARI
+T. MACRI’, Una vita clandestina, in L. FICACCI (a cura), Sisley Xhafa. See no Evil, Hear no Evil, Speak no Evil, catalogo della mostra etc.
+
+ARTICOLO IN PERIODICO
+P. L. SACCO, Economia del raduno, in “Domenica”, suppl. de “Il Sole 24 Ore”, 13 maggio 2008 (stampa di periodicità quotidiana) 
+M. G. BREGA, Memorabili dinamiche. Alexander Calder a Roma, in “Art e Dossier”, anno XXIV, n. 260, novembre 2009 (stampa di periodicità mensile – o bimestrale, etc)
+
+WEBGRAFIA O SITOGRAFIA O WEBGRAPHY
+Link:https://www.slideshare.net/Elearningste/webgrafia-14286504
+Fonte: www.accademiadellacrusca.it.
+Sulle vicende biografiche di Emilio Vedova:http://www.fondazionevedova.org/emilio-vedova/bibliografia-estesa/1950-1958(consultato in data 27.01.2018) /contiene un errore/
+Il video di Marina Abramovic Balkan Erotic Epic, 2006, è on line: http://www.ubu.com/film/abramovic_balkan.html(ultimo accesso in data 27.01.2018)
